@@ -99,6 +99,8 @@ I am committed to continuous learning and professional development, staying at t
 
 - Implemented time management techniques that enhanced daily operations and reduced bottlenecks.
 
+- Beyond Operations analysis, I am a  passionate advocate for women's empowerment, My mission is to help women cultivate a growth mindset, build rewarding careers, and excel in their careers. I’ve contributed to the United Nations Women's Programmes in 2023 and 2024 as a Delegate on the Commission on the Status of Women to promote gender equality and women's empowerment.
+  
 🌟 Let’s connect! I'd love to collaborate and contribute to your team if you’re seeking a data analyst who combines technical expertise with a results-driven approach.  
 
 📫 **Email**: okoeguale.jennifer@gmail.com
