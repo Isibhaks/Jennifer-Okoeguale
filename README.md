@@ -1,6 +1,6 @@
 # Jennifer-Okoeguale 
 
-### 🌍 Birmingham, England | 📊 Operations Analyst | 💡 Data-Driven Problem Solver  
+### 🌍 Birmingham, England | 📊 Data Analyst | 💡 Data-Driven Problem Solver  
 
 ---  
 
@@ -18,7 +18,7 @@ I am committed to continuous learning and professional development, staying at t
 --- 
 ## Work Experience
 
-## Job Title: Operations Analyst
+## Job Title: Data Analyst
 
 ## Code First Girls UK
 
@@ -27,7 +27,7 @@ I am committed to continuous learning and professional development, staying at t
 ## Job Description:
 - Utilised SQL to query large datasets from the company’s database, extracting critical insights on client details, which contributed to improving company growth.
   
-- Integrated datasets by creating new data entries, and database management enabling the identification of top customers across multiple applications, leading to improved customer targeting and service delivery.
+- Integrated datasets by creating new data entries, and database management enabling identifying top customers across multiple applications, leading to improved customer targeting and service delivery.
   
 - Employed Power Query in Excel to clean and organise datasets, ensuring data clarity for accurate analysis.
 
@@ -35,9 +35,7 @@ I am committed to continuous learning and professional development, staying at t
 
 - Created interactive data visualisations using Power BI, delivering clear operational insights that supported informed decision-making.
 
-- Applied IBM SPSS (Statistics) to perform regression analysis and identify trends, patterns, and correlations, offering strategic insights for business growth.
-
-- Collaborated with the Data Analyst team to provide actionable insights, driving customer success and supporting key business objectives.
+- Collaborated with the other Data Analysts to provide actionable insights, driving customer success and supporting key business objectives.
 
   
 ## Job Title: Operations Analyst 
@@ -48,7 +46,7 @@ I am committed to continuous learning and professional development, staying at t
 
 - Successfully managed multiple end-to-end projects using PRINCE2 methodologies, ensuring projects were completed on time and within budget.
   
-- Applied data analytics to enhance project decision-making, leading to improved efficiency and reduced project delivery times by 15%.
+- Applied data analytics to enhance project decision-making, improving efficiency and reducing project delivery times by 15%.
   
 - Utilised business analytics techniques to assess business needs, optimise processes, and reduce operational costs by 20%.
   
@@ -63,7 +61,7 @@ I am committed to continuous learning and professional development, staying at t
 - Developed the communications plan and managed the communication component of the project.
 
 
-## Operations Analyst
+## Data Analyst
 
 ## Sazak Acres Biloque Company (SABC) Limited	
 
@@ -72,7 +70,7 @@ I am committed to continuous learning and professional development, staying at t
 
 - Led market research and analysis on the construction sector, conducting SWOT assessments and identifying key pricing strategies and customer segments. These insights informed SABC’s market expansion into Nigeria.
 
-- Researched and performed market analysis reporting using Power BI providing actionable insights. To stakeholders.
+- Researched and performed market analysis reporting using Power BI providing actionable insights to stakeholders.
 
 - Created a comprehensive business development report for an IT client, performing data cleaning and analysis to quantify market opportunities and risks. These insights were instrumental in shaping the client’s market expansion strategy.
 
