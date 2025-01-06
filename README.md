@@ -18,11 +18,11 @@ I am committed to continuous learning and professional development, staying at t
 --- 
 ## Work Experience
 
-## Job Title: Data Analyst
+## Data Analyst
 
 ## Code First Girls UK
 
-##  Date: November 2024
+## November 2024
 
 ## Job Description:
 - Utilised SQL to query large datasets from the company’s database, extracting critical insights on client details, which contributed to improving company growth.
@@ -38,11 +38,11 @@ I am committed to continuous learning and professional development, staying at t
 - Collaborated with the other Data Analysts to provide actionable insights, driving customer success and supporting key business objectives.
 
   
-## Job Title: Operations Analyst 
+## Operations Analyst 
 
 ## Tritek Consulting Limited, England
 
-## Date: September 2023 – February 2024
+## September 2023 – February 2024
 
 - Successfully managed multiple end-to-end projects using PRINCE2 methodologies, ensuring projects were completed on time and within budget.
   
@@ -84,7 +84,9 @@ I am committed to continuous learning and professional development, staying at t
 
 
 ## Project Manager
-## Jenny’s Sweet Eats Bakery and Confectionery                                                        	  
+
+## Jenny’s Sweet Eats Bakery and Confectionery  
+
 ## April 2016 - December 2018
 
 - Successfully mitigated risk and enhanced customer data integrity by implementing data validation procedures such as reviewal, auditing, and monitoring processes within the IT systems, ensuring compliance and data accuracy.
