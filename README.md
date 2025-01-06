@@ -4,7 +4,7 @@
 
 ---  
 
-I’m Jennifer Okoeguale, a detail-oriented Data and Operations Analyst with extensive experience working on real-world datasets across diverse industries. With a proven track record of transforming data into actionable insights, I specialise in data visualisation, big data analysis, and crafting efficient workflows for data exploration. My expertise spans the public and private sectors, enabling me to solve complex data challenges and drive impactful decision-making.  
+My name is Jennifer Okoeguale, a detail-oriented Data and Operations Analyst with extensive experience working on real-world datasets across diverse industries. With a proven track record of transforming data into actionable insights, I specialise in data visualisation, big data analysis, and crafting efficient workflows for data exploration. My expertise spans the public and private sectors, enabling me to solve complex data challenges and drive impactful decision-making.  
 
 ### 📈 **Core Skills & Tools**  
 - **SQL**: Proficient in querying, managing, and optimising databases.  
